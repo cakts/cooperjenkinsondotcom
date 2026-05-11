@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cooper Jenkinson</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  </head>
+  <body>
+
+    <div class="page-wrap">
+      <div class="hero-block">
+        <h1 class="headline">
+          <span class="line-wrap"><span class="line-inner" id="l1">cooper jenkinson</span></span>
+          <span class="line-wrap"><span class="line-inner" id="l2">is making <span class="cycling-word" id="cycler"></span></span></span>
+        </h1>
+      </div>
+
+      <div class="posts-section">
+        <h2 class="posts-heading">my projects</h2>
+        <div class="posts-grid" id="postsGrid"></div>
+      </div>
+    </div>
+
+    <div class="lightbox" id="lightbox">
+      <div class="lightbox-backdrop" id="lightboxBackdrop"></div>
+      <div class="lightbox-panel" id="lightboxPanel">
+        <div class="lightbox-carousel" id="lightboxCarousel">
+          <div class="carousel-track" id="carouselTrack"></div>
+        </div>
+        <div class="carousel-controls" id="carouselControls">
+          <button class="carousel-btn carousel-prev" id="carouselPrev">&#8249;</button>
+          <div class="carousel-dots" id="carouselDots"></div>
+          <button class="carousel-btn carousel-next" id="carouselNext">&#8250;</button>
+        </div>
+        <div class="lightbox-info" id="lightboxInfo">
+          <h2 class="lightbox-title" id="lightboxTitle"></h2>
+          <p class="lightbox-description" id="lightboxDescription"></p>
+          <div class="lightbox-links" id="lightboxLinks"></div>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/hero.js"></script>
+    <script src="js/posts.js"></script>
+  </body>
+</html>

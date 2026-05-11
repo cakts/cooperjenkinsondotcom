@@ -1,0 +1,202 @@
+[
+  {
+    "id": "blunderous",
+    "title": "Blunderous",
+    "thumbnail": "images/blunderous.png",
+    "media": [
+      {
+        "type": "youtube",
+        "src": "k0SZ-lfEgu0"
+      },
+      {
+        "type": "image",
+        "src": "images/blunderous2.png"
+      },
+      {
+        "type": "image",
+        "src": "images/blunderous3.png"
+      }
+    ],
+    "description": "Blunderous is a card-based auto battler that is being developed independently by my company Goosebox Games for an eventual release on Steam.",
+    "links": [
+      {
+        "label": "View Steam Page",
+        "file": "https://store.steampowered.com/app/3273210/Blunderous/"
+      }
+    ]
+  },
+  {
+    "id": "raycaster",
+    "title": "Raycaster",
+    "thumbnail": "images/raycaster.png",
+    "media": [
+      {
+        "type": "image",
+        "src": "images/raycaster.png"
+      }
+    ],
+    "description": "A 3D raytracer implemented in C#, based on Peter Shirley's 'Ray Tracing in One Weekend' tutorial. Contains both sequential and parallelized versions. This project was an interesting challenge that provided some valuable knowledge into rendering pipelines and industry standards when it comes to optimisation. Recieved a grading of 95/100.",
+    "links": [
+      {
+        "label": "View Writeup",
+        "file": "pdf/raytracer_report.pdf"
+      },
+      {
+        "label": "Download Project",
+        "file": "https://github.com/cakts/RaycasterParallelization"
+      }
+    ]
+  },
+  {
+    "id": "krittervalley",
+    "title": "Kritter Valley",
+    "thumbnail": "images/krittervalley2.gif",
+    "media": [
+      {
+        "type": "image",
+        "src": "images/krittervalley2.gif"
+      },
+      {
+        "type": "image",
+        "src": "images/krittervalley3.gif"
+      },
+      {
+        "type": "youtube",
+        "src": "JW-_YAraIP4"
+      }
+    ],
+    "description": "Kritter Valley was a hobby game dev project that provided a lot of skills and stylistic choices I use in my creative work today. It's a project I'm quite proud of and look forward to returning to it someday to fully flesh out the many ideas I've had for it."
+  },
+  {
+    "id": "gridlast",
+    "title": "GRIDLAST",
+    "thumbnail": "images/gridlast.gif",
+    "media": [
+      {
+        "type": "image",
+        "src": "images/gridlast2.png"
+      },
+      {
+        "type": "image",
+        "src": "images/gridlast3.png"
+      },
+      {
+        "type": "image",
+        "src": "images/gridlast4.png"
+      }
+    ],
+    "description": "GRIDLAST is a card-based strategy game developed in 72 hours for Ludum Dare 50, placing 34th overall. The game has you evade zombies by moving a character on a grid and defeating enemies using different cards.",
+    "links": [
+      {
+        "label": "View Ludum Dare Entry",
+        "file": "https://ldjam.com/events/ludum-dare/50/gridlast"
+      },
+      {
+        "label": "Download GRIDLAST",
+        "file": "https://cakts.itch.io/gridlast"
+      }
+    ]
+  },
+  {
+    "id": "brickbone",
+    "title": "BRICKBONE",
+    "thumbnail": "images/brickbone.gif",
+    "media": [
+      {
+        "type": "image",
+        "src": "images/brickbone2.png"
+      },
+      {
+        "type": "image",
+        "src": "images/brickbone.gif"
+      },
+      {
+        "type": "image",
+        "src": "images/islandgen.gif"
+      }
+    ],
+    "description": "BRICKBONE was a small project to teach myself procedural island generation and some more advanced multiplayer netcode."
+  },
+  {
+    "id": "gunstable",
+    "title": "gunstable",
+    "thumbnail": "images/gunstable.gif",
+    "media": [
+      {
+        "type": "image",
+        "src": "images/gunstable.gif"
+      },
+      {
+        "type": "image",
+        "src": "images/gunstable2.gif"
+      },
+      {
+        "type": "image",
+        "src": "images/gunstable3.gif"
+      }
+    ],
+    "description": "GUNSTABLE MAYHEM is a classic arcade-y platformer game developed in 72 hours for Ludum Dare 49.",
+    "links": [
+      {
+        "label": "View Ludum Dare Entry",
+        "file": "https://ldjam.com/events/ludum-dare/49/gunstable-mayhem"
+      },
+      {
+        "label": "Download GUNSTABLE",
+        "file": "https://cakts.itch.io/gridlast"
+      }
+    ]
+  },
+  {
+    "id": "plummet",
+    "title": "The Plummet",
+    "thumbnail": "images/plummet.gif",
+    "media": [
+      {
+        "type": "image",
+        "src": "images/plummet.gif"
+      },
+      {
+        "type": "image",
+        "src": "images/plummet2.png"
+      }
+    ],
+    "description": "The Plummet is a platforming stealth game where you must travel as deep into the procedurally generated depths as possible. Developed in 72 hours for Ludum Dare 48.",
+    "links": [
+      {
+        "label": "View Ludum Dare Entry",
+        "file": "https://ldjam.com/events/ludum-dare/48/the-plummet"
+      },
+      {
+        "label": "Download The Plummet",
+        "file": "https://cakts.itch.io/the-plummet"
+      }
+    ]
+  },
+  {
+    "id": "bullettime",
+    "title": "Bullet Time",
+    "thumbnail": "images/bullettime.gif",
+    "media": [
+      {
+        "type": "image",
+        "src": "images/bullettime.gif"
+      },
+      {
+        "type": "image",
+        "src": "images/bullettime.png"
+      }
+    ],
+    "description": "BULLET TIME is a top-down stealth game with time-travel mechanics. Developed in 72 hours with a friend for Ludum Dare 47.",
+    "links": [
+      {
+        "label": "View Ludum Dare Entry",
+        "file": "https://ldjam.com/events/ludum-dare/47/bullet-time"
+      },
+      {
+        "label": "Download The Plummet",
+        "file": "https://cakts.itch.io/bullet-time"
+      }
+    ]
+  }
+]
