@@ -88,7 +88,7 @@
     "description": "GRIDLAST is a card-based strategy game developed in 72 hours for Ludum Dare 50, placing 34th overall. The game has you evade zombies by moving a character on a grid and defeating enemies using different cards.",
     "links": [
       {
-        "label": "View Ludum Dare Entry",
+        "label": "Ludum Dare Page",
         "file": "https://ldjam.com/events/ludum-dare/50/gridlast"
       },
       {
@@ -138,7 +138,7 @@
     "description": "GUNSTABLE MAYHEM is a classic arcade-y platformer game developed in 72 hours for Ludum Dare 49.",
     "links": [
       {
-        "label": "View Ludum Dare Entry",
+        "label": "Ludum Dare Page",
         "file": "https://ldjam.com/events/ludum-dare/49/gunstable-mayhem"
       },
       {
@@ -164,7 +164,7 @@
     "description": "The Plummet is a platforming stealth game where you must travel as deep into the procedurally generated depths as possible. Developed in 72 hours for Ludum Dare 48.",
     "links": [
       {
-        "label": "View Ludum Dare Entry",
+        "label": "Ludum Dare Page",
         "file": "https://ldjam.com/events/ludum-dare/48/the-plummet"
       },
       {
@@ -190,11 +190,11 @@
     "description": "BULLET TIME is a top-down stealth game with time-travel mechanics. Developed in 72 hours with a friend for Ludum Dare 47.",
     "links": [
       {
-        "label": "View Ludum Dare Entry",
+        "label": "Ludum Dare Page",
         "file": "https://ldjam.com/events/ludum-dare/47/bullet-time"
       },
       {
-        "label": "Download The Plummet",
+        "label": "Download Bullet Time",
         "file": "https://cakts.itch.io/bullet-time"
       }
     ]
